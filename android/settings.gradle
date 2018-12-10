@@ -1,4 +1,4 @@
-rootProject.name = 'Demo02'
+rootProject.name = 'ReactNativeTemplateApp'
 
 include ':app'
 

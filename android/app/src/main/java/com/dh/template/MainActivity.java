@@ -1,4 +1,4 @@
-package com.demo02;
+package com.dh.template;
 
 // import com.facebook.react.ReactActivity;
 import com.reactnativenavigation.NavigationActivity;
@@ -12,6 +12,6 @@ public class MainActivity extends NavigationActivity {
      */
     // @Override
     // protected String getMainComponentName() {
-    //     return "Demo02";
+    //     return "ReactNativeTemplateApp";
     // }
 }

@@ -1,4 +1,4 @@
-package com.demo02;
+package com.dh.template;
 
 import android.app.Application;
 
